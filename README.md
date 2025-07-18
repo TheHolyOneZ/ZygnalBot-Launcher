@@ -1,6 +1,8 @@
 # ZygnalBot-Launcher
 The launcher for my Discord bot, ZygnalBot — which is highly customizable — essentially serves as a framework to load other cogs and Extensions
 
+### Showcase: https://www.youtube.com/watch?v=_1UChwgQuzw
+
 # ZygnalBot Launcher
 
 **ZygnalBot Launcher** is a powerful desktop application for managing, configuring, and extending your ZygnalBot Discord bot. It provides a user-friendly interface for setup, updates, environment configuration, extension management, and more.
